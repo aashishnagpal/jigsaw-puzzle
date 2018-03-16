@@ -1,0 +1,7 @@
+# IntelliJ project files
+.idea
+*.iml
+/node_modules
+npm-debug.log
+dist
+src/styles/css

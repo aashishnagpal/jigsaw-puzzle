@@ -1,0 +1,36 @@
+{
+  "name": "jigsaw-puzzle",
+  "version": "1.0.0",
+  "description": "A Drag &amp; Drop Jigsaw Puzzle - Project Assignment from Bov Academy - Learn JS Drag Events",
+  "main": "src/scripts/puzzle.js",
+  "scripts": {
+    "test": "",
+    "start": "gulp",
+    "build": "gulp build",
+    "deploy": "gulp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashishnagpal/jigsaw-puzzle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashishnagpal/jigsaw-puzzle/issues"
+  },
+  "homepage": "https://aashish.nagpal.github.com/jigsaw-puzzle",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2",
+    "run-sequence": "^1.2.2"
+  }
+}
